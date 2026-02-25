@@ -1,8 +1,8 @@
-  .claude/
-  .venv/
-  data/
-  models/
-  __pycache__/
-  *.pyc
-  .DS_Store
-  mlruns/
+.claude/
+.venv/
+data/
+models/
+__pycache__/
+*.pyc
+.DS_Store
+mlruns/
